@@ -42,4 +42,14 @@ Podemos __*MISTURAR NEGRITO E ITALICO*__ \
 
 [ACESSE MEU GITHUB](https://github.com/GuilhermeVozniak)
 ---
+### TABELA
+um | nome | nota
+---|---|---
+1 | KEVIN | 10
+2 | GUILHERME| 10
 
+***
+programa em python
+'''
+print(olá mundo)
+''''
