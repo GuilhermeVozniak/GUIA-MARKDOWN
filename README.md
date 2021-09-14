@@ -41,4 +41,5 @@ Podemos __*MISTURAR NEGRITO E ITALICO*__ \
  
 ![OCTOCAT](https://user-images.githubusercontent.com/90528491/133174270-7d3cc707-e341-429c-9ee9-443b59b94137.jpeg)
 
-[ACESSE MEU GITHUB](https://github.com/GuilhermeVozniak) 
+[ACESSE MEU GITHUB](https://github.com/GuilhermeVozniak)
+---
