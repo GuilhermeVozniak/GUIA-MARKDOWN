@@ -50,6 +50,7 @@ um | nome | nota
 
 ***
 programa em python
-'''
+```
 print(olá mundo)
-'''
+```
+`print(olá mundo)`
